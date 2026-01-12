@@ -2,6 +2,10 @@
 
 本项目旨在构建一个**以AI Agent为核心、面向学术文献的自动化阅读与整理工具链**。
 
+## 仓库链接
+
+https://github.com/Usercyk/AIPhys
+
 ## 项目情况
 ### 1. 使用 MinerU 将 PDF 转换为 Markdown
 
