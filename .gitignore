@@ -1,0 +1,20 @@
+# env
+.env
+
+# cache
+__pycache__/
+*.pyc
+
+# data
+.chroma/
+data/
+
+# log
+*.log
+
+# vscode
+.vscode/
+
+# generated files
+*.pkl
+*.npy

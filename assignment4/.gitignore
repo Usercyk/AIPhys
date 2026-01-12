@@ -1,0 +1,6 @@
+test_cases/
+*.txt
+run_tests.py
+build/
+*.c
+*.so

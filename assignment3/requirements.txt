@@ -1,0 +1,6 @@
+torch
+accelerate
+matplotlib
+numpy
+tqdm
+safetensors
